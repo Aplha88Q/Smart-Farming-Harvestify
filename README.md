@@ -113,8 +113,3 @@ CatBoost achieved **99.32% test accuracy** and **99.38% on 5-fold cross-validati
 
 ---
 
-## 👤 Author
-
-**Lakshya Pandey**  
-BTech CSE (Cyber Security) — Bennett University, 2026  
-CEHv12 Certified
